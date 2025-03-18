@@ -6,4 +6,4 @@ def num_add():
 num1 =int(input ('Enter First Number: '))
 num2 = int(input ('Enter Second Number: '))
 
-print('The sum of the two number is:',num_add())
+print(f'{num1} + {num2} = ',num_add())
